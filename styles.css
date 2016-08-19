@@ -2,15 +2,12 @@
 My Styles
 *****************************/
 
-body {
-  background: url("ccase87.github.io/download (1).jpeg") no-repeat fixed center;
-  background-size: 100% 400px;
-}
 
-/*.background-color {
-  width: 200%;
-  height: 200%;
-}*/
+.background-color {
+  background: url("ccase87.github.io/download (1).jpeg") no-repeat fixed center;
+  width: 100%;
+  height: 100%;
+}
 
 .textcolorwhite {
   color:white;
