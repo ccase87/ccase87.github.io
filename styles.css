@@ -2,19 +2,15 @@
 My Styles
 *****************************/
 
-
-
+body {
+  background-image: url("ccase87.github.io/download (1).jpeg"), #707070, no-repeat;
+}
 
 .background-color {
-
-width: 200%;
-height: 200%;
-background-color: #707070;
-
-background-image: url("ccase87.github.io/download (1).jpeg"), no-repeat;
+  width: 200%;
+  height: 200%;
 }
 
 .textcolorwhite {
-color:white;
-  
+  color:white;
 }
