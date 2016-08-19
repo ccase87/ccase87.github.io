@@ -5,6 +5,9 @@ My Styles
 html, body{
   margin: 0px;
 }
+h1{
+  margin: 0px;
+}
 .background-color {
   background: url("ccase87.github.io/toronto-skyline-night-view.png");
   height: 426px;
