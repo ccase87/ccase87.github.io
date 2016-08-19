@@ -3,7 +3,8 @@ My Styles
 *****************************/
 
 body {
-  background: #707070 url("ccase87.github.io/download (1).jpeg") no-repeat fixed center;
+  background: url("ccase87.github.io/download (1).jpeg") no-repeat fixed center;
+  background-size: 100%;
 }
 
 .background-color {
